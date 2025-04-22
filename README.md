@@ -30,7 +30,19 @@ The application is built with **Streamlit** and allows users to:
 
 ## 🗂️ Project Structure
 
-TWITTER_SENTIMENT_ANALYSIS/ │ ├── data/ │ └── Twitter_Data.csv # Dataset file │ ├── utils/ │ ├── text_cleaner.py # Custom text cleaning functions │ ├── download_nltk.py # Auto-downloads stopwords for NLTK │ └── pycache/ # Compiled Python files │ ├── app.py # Streamlit app main file ├── train_model.py # LSTM training script ├── predict.py # Model prediction functions ├── tokenizer.pkl # Saved tokenizer used for inference ├── lstm_sentiment_model.keras # Trained LSTM model file ├── requirements.txt # Python dependencies └── README.md # Project documentation
+TWITTER_SENTIMENT_ANALYSIS/ 
+│ ├── data/ 
+│ └── Twitter_Data.csv # Dataset file 
+│ ├── utils/ 
+│ ├── text_cleaner.py # Custom text cleaning functions 
+├── download_nltk.py # Auto-downloads stopwords for NLTK 
+├── app.py # Streamlit app main file 
+├── train_model.py # LSTM training script 
+├── predict.py # Model prediction functions 
+├── tokenizer.pkl # Saved tokenizer used for inference 
+├── lstm_sentiment_model.keras # Trained LSTM model file 
+├── requirements.txt # Python dependencies 
+└── README.md # Project documentation
 
 ---
 
