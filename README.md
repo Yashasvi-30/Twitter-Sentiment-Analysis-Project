@@ -108,7 +108,8 @@ The model is trained using the Long Short-Term Memory (LSTM) architecture. The t
        ```bash
          python train_model.py
 
-After training, the model is saved in the `lstm_sentiment_model.keras` file and the tokenizer is saved as `tokenizer.pkl` for inference.
+After training, the model is saved in the lstm_sentiment_model.keras file and the tokenizer is saved as tokenizer.pkl for inference.
+
 ---
 
 ## 📑 Requirements
