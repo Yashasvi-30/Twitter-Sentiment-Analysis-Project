@@ -61,9 +61,9 @@ To get started with the project, follow these steps:
 ### 🚀 Running the App
 
 To run the Streamlit app:
-       1. Download Dependencies 
-       2. Train the Model
-       3. Start the Streamlit app:
+       -1. Download Dependencies 
+       -2. Train the Model
+       -3. Start the Streamlit app:
            ```bash
               streamlit run app.py
 
@@ -95,7 +95,7 @@ The Streamlit app has a clean and minimal interface with:
 
 ## 📄 Dataset
 
-- **Source:** Kaggle: Twitter Sentiment Dataset
+- **Source:** [Kaggle: Twitter Sentiment Dataset](https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset/data).
 - **Format:** CSV
 - **Columns:**
   - `text`: The tweet content.
@@ -105,8 +105,8 @@ The Streamlit app has a clean and minimal interface with:
 
 The model is trained using the Long Short-Term Memory (LSTM) architecture. The training script `train_model.py` processes the dataset, tokenizes the text, and trains the model.  
 To train the model, run:
-```bash
-python train_model.py
+   ```bash
+      python train_model.py
 
 After training, the model is saved in the `lstm_sentiment_model.keras` file and the tokenizer is saved as `tokenizer.pkl` for inference.
 
