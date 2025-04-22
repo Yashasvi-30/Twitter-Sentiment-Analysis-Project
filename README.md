@@ -122,9 +122,7 @@ The project requires the following Python libraries, listed in `requirements.txt
 - scikit-learn
 - matplotlib
 
-## 📚 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📬 Contact
 
