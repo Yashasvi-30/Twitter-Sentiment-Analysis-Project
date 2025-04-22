@@ -61,9 +61,9 @@ To get started with the project, follow these steps:
 ### 🚀 Running the App
 
 To run the Streamlit app:
-       -1. Download Dependencies 
-       -2. Train the Model
-       -3. Start the Streamlit app:
+1. Download Dependencies
+2. Train the Model
+3. Start the Streamlit app:
            ```bash
               streamlit run app.py
 
