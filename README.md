@@ -128,6 +128,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📬 Contact
 
-- **Author:** Your Name
-- **GitHub:** [https://github.com/your-username](https://github.com/your-username)
-- **Email:** your.email@example.com
+- **Author:** Yashasvi Gupta
+- **GitHub:** [https://github.com/Yashasvi-30](https://github.com/Yashasvi-30)
+
