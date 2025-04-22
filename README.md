@@ -106,9 +106,10 @@ The Streamlit app has a clean and minimal interface with:
 The model is trained using the Long Short-Term Memory (LSTM) architecture. The training script `train_model.py` processes the dataset, tokenizes the text, and trains the model.  
 To train the model, run:
    ```bash
-      python train_model.py
+      python train_model.py```
 
 After training, the model is saved in the `lstm_sentiment_model.keras` file and the tokenizer is saved as `tokenizer.pkl` for inference.
+---
 
 ## 📑 Requirements
 
@@ -126,7 +127,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📬 Contact
 
-- **Author:** Yashasvi Gupta
-- **GitHub:** [https://github.com/Yashasvi-30](https://github.com/Yashasvi-30)
-
-
+- **Author:** Your Name
+- **GitHub:** [https://github.com/your-username](https://github.com/your-username)
+- **Email:** your.email@example.com
