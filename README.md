@@ -84,7 +84,7 @@ Here are a few example tweets and their predicted sentiments:
 ## 🖼️ UI Preview
 
 The Streamlit app has a clean and minimal interface with:
-- A light-themed background with text placed in a dark transparent container for readability.
+- A light-themed background with text placed in a  container for readability.
 - A footer with author info and a GitHub link.
 
 ## 📌 Features
@@ -104,9 +104,9 @@ The Streamlit app has a clean and minimal interface with:
 ## 🧑‍💻 Model Training
 
 The model is trained using the Long Short-Term Memory (LSTM) architecture. The training script `train_model.py` processes the dataset, tokenizes the text, and trains the model.  
-To train the model, run:
-   ```bash
-      python train_model.py```
+   To train the model, run:
+       ```bash
+         python train_model.py
 
 After training, the model is saved in the `lstm_sentiment_model.keras` file and the tokenizer is saved as `tokenizer.pkl` for inference.
 ---
